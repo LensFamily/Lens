@@ -405,11 +405,11 @@ This mode automatically dequantizes the MXFP4 text encoder, splits both the text
 ## Citation
 
 ```bibtex
-@article{zhao2026lens,
-  title   = {Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models},
-  author  = {Guo, Baining and Luo, Chong and Chen, Dong and Chen, Dongdong and Wei, Fangyun and Li, Ji and Bao, Jianmin and Zhang, Jiawei and Zhao, Jinjing and Shi, Lei and Yang, Qinhong and Zhang, Sirui and Wu, Xiuyu and Feng, Xuelu and Lu, Yan and Dong, Yanchen and Yue, Yang and Wang, Yitong and Chen, Yunuo and Liang, Zhiyang and Wan, Ziyu},
-  journal = {arXiv preprint arXiv:2605.21573},
-  year    = {2026}
+@article{chen2026lens,
+  title={Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models},
+  author={Chen, Dong and Wei, Fangyun and Wan, Ziyu and Chen, Dongdong and Zhang, Jiawei and Zhao, Jinjing and Zhang, Sirui and Yue, Yang and Liang, Zhiyang and Guo, Baining and others},
+  journal={arXiv preprint arXiv:2605.21573},
+  year={2026}
 }
 ```
 
