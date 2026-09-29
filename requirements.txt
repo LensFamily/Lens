@@ -1,0 +1,17 @@
+# Python 3.12.12, CUDA 12.6, PyTorch 2.11.0+cu126.
+accelerate==1.13.0
+diffusers==0.38.0
+einops==0.8.2
+huggingface_hub==1.14.0
+numpy==2.4.3
+pillow>=12.2.0
+safetensors>=0.7.0
+tokenizers==0.22.2
+tqdm==4.67.3
+transformers==5.8.0
+
+# Optional: required for the OpenAI-compatible prompt reasoner.
+openai==2.36.0
+
+# Optional: required when keeping GPT-OSS weights in MXFP4 with --mxfp4.
+kernels==0.14.0
